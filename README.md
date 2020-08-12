@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an BS Electronics Engineering graduate with a passion in software development and its integration in electronics hardware, such as embedded systems like Arduino and Raspberry Pi. I have an experience in web development using React.js, Node.js, and database management using MongoDB and MySQL. I have also had side projects that used Firebase, Heroku, and Next.js.
+
 <!--
 **cabrerafd/cabrerafd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
