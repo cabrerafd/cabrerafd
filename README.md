@@ -22,7 +22,10 @@
 <a href="#my-skillset">![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)</a>
 <a href="#my-skillset">![Android](https://img.shields.io/badge/Android-%233DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)</a>
 
+<a href="#my-skillset">![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white)</a>
+<a href="#my-skillset">![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23C51A4A.svg?&style=for-the-badge&logo=Raspberry+Pi&logoColor=white)</a>
+
 ## About Me
-I am an BS Electronics Engineering graduate with a passion in software development and its integration in electronics hardware, such as embedded systems like Arduino and Raspberry Pi. I have an experience in web development using React.js, Node.js, and database management using MongoDB and MySQL. I have also had side projects that used Firebase, Heroku, and Next.js.
+I am an 🤖 BS Electronics Engineering 🤖 graduate with a passion in 💻 software development 💻 and its integration in electronics hardware, such as embedded systems like Arduino and Raspberry Pi. I have an experience in web development using React.js, Node.js, and database management using MongoDB and MySQL. I have also had side projects that used Firebase, Heroku, and Next.js.
 
 I also like to learn everyday. I have basically dozens of unfinished side projects because I want to tinker in every framework I come across. But when given a task, I can assure you that I will deliver the best output I can provide.
