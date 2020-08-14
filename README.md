@@ -1,8 +1,8 @@
 # Hello there! 👋👋👋
 ## Contact Me
-<a href="https://linkedin.com/in/cabrerafd">![LinkedIN](https://img.shields.io/badge/LinkedIN-%230077B5.svg?&style=flat&logo=LinkedIN&logoColor=white)</a>
-<a href="https://facebook.com/cabrerafd">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=Facebook&logoColor=white)</a>
-<a href="mailto:cabrerafp005@gmail.com">![cabrerafp005@gmail.com](https://img.shields.io/badge/cabrerafp005@gmail.com-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white)</a>
+<a href="https://linkedin.com/in/cabrerafd" target="_blank" rel="noreferrer">![LinkedIN](https://img.shields.io/badge/LinkedIN-%230077B5.svg?&style=flat&logo=LinkedIN&logoColor=white)</a>
+<a href="https://facebook.com/cabrerafd" target="_blank" rel="noreferrer">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=Facebook&logoColor=white)</a>
+<a href="mailto:cabrerafp005@gmail.com" target="_blank" rel="noreferrer">![cabrerafp005@gmail.com](https://img.shields.io/badge/cabrerafp005@gmail.com-%23D14836.svg?&style=flat&logo=Gmail&logoColor=white)</a>
 
 
 ## My Skillset
