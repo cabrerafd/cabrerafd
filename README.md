@@ -24,3 +24,5 @@
 
 ## About Me
 I am an BS Electronics Engineering graduate with a passion in software development and its integration in electronics hardware, such as embedded systems like Arduino and Raspberry Pi. I have an experience in web development using React.js, Node.js, and database management using MongoDB and MySQL. I have also had side projects that used Firebase, Heroku, and Next.js.
+
+I also like to learn everyday. I have basically dozens of unfinished side projects because I want to tinker in every framework I come across. But when given a task, I can assure you that I will deliver the best output I can provide.
