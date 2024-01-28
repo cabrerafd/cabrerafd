@@ -12,8 +12,11 @@
 <a href="#my-skillset">![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black)</a>
 <a href="#my-skillset">![NodeJS](https://img.shields.io/badge/NodeJs-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)</a>
 
+<a href="#my-skillset">![Java](https://img.shields.io/badge/Java-%23437291?style=for-the-badge&logo=openjdk&logoColor=white)</a>
+
 <a href="#my-skillset">![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)</a>
 <a href="#my-skillset">![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)</a>
+<a href="#my-skillset">![Rails](https://img.shields.io/badge/Rails-%23D30001?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</a>
 
 <a href="#my-skillset">![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)</a>
 <a href="#my-skillset">![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=black)</a>
@@ -26,6 +29,6 @@
 <a href="#my-skillset">![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23C51A4A.svg?&style=for-the-badge&logo=Raspberry+Pi&logoColor=white)</a>
 
 ## About Me
-I am a 🤖 BS Electronics Engineering 🤖 graduate with a passion in 💻 software development 💻 and its integration in electronics hardware, such as embedded systems like Arduino and Raspberry Pi. I have an experience in web development using React.js, Node.js, and database management using MongoDB and MySQL. I have also had side projects that used Firebase, Heroku, and Next.js.
+Hey there! I'm an Electronics Engineering graduate with a fervor for software development, especially in the realm of embedded systems like Arduino and Raspberry Pi. My expertise spans web development using React.js and Node.js, coupled with database management using MongoDB and MySQL. I've also delved into Firebase, Heroku, and Next.js in various side projects.
 
-I also like to learn everyday. I have basically dozens of unfinished side projects because I want to tinker in every framework I come across.
+A perpetual learner, I'm driven by an insatiable curiosity, leading me to dabble in numerous frameworks and technologies. My unfinished side projects are a testament to my ongoing exploration of the ever-evolving tech landscape. If you're on the lookout for a versatile professional passionate about pushing boundaries and creating innovative solutions, let's connect! 🌐🔧
